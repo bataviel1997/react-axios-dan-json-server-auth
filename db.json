@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Selamat malam warga bekasi",
+      "slug": "Selamat-malam-warga-bekasi",
+      "body": "Kabar tidak baik,telah turun hujan disini dna debit air meningkat serta dapat menyebabkan banjir",
+      "banner": "https://images.pexels.com/photos/1739855/pexels-photo-1739855.jpeg?auto=compress&cs=tinysrgb&w=300"
+    },
+    {
+      "id": 2,
+      "title": "Selamat malam warga Jakarta",
+      "slug": "Selamat-malam-warga-Jakarta",
+      "body": "Kabar tidak baik,telah turun hujan disini dna debit air meningkat serta dapat menyebabkan banjir",
+      "banner": "https://images.pexels.com/photos/4906447/pexels-photo-4906447.jpeg?auto=compress&cs=tinysrgb&w=300"
+    },
+    {
+      "id": 3,
+      "title": "Selamat malam warga Depok",
+      "slug": "Selamat-malam-warga-Depok",
+      "body": "Kabar tidak baik,telah turun hujan disini dna debit air meningkat serta dapat menyebabkan banjir",
+      "banner": "https://images.pexels.com/photos/1250672/pexels-photo-1250672.jpeg?auto=compress&cs=tinysrgb&w=300"
+    },
+    {
+      "title": "hari ulang tahun",
+      "slug": "hari-ulang-tahun",
+      "body": "selamat ulang tahun",
+      "banner": "https://images.pexels.com/photos/5911146/pexels-photo-5911146.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "id": 4
+    },
+    {
+      "title": "Culpa consectetur h",
+      "slug": "Ex ut nihil consequa",
+      "body": "Cum non ut eum alias",
+      "banner": "https://images.pexels.com/photos/6532810/pexels-photo-6532810.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  font-weight: 300;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: whitesmoke;
+  overflow-x: hidden;
+}
+
+a{
+  color: inherit;
+}
+
+.container {
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.wrapper{
+  width: 100%;
+  max-width: 900px;
+  margin: 80px auto;
+}
+
+.blog-wrapper {
+  width: 100%;
+  gap:  20px;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+}
+
+.blog-card {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap:  10px;
+  background-color: white;
+}
+
+.blog-card h3{
+  font-weight: 500;
+}
+
+.blog-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.blog-card a{
+  width: 120px;
+  height: 35px;
+  background-color: orange;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+}
+
+.blog-form{
+  background-color: white;
+  padding: 20px;
+  width: 420px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.form-group input{
+  width: 250px;
+  height: 32px;
+  padding: 0 8px;
+  font-family: inherit;
+}
+
+.form-group label{
+  text-transform: capitalize;
+}
+
+.form-group textarea{
+  padding: 8px;
+  font-family: inherit;
+  width: 250px;
+  height: 120px;
+}
+
+.fg_textarea {
+  align-items: flex-start;
+}
+
+.blog-form button {
+  height: 32px;
+  width: 250px;
+  border: none;
+  outline: none;
+  background-color: orange;
+  color: white;
+  margin-left: auto;
+}
+
+.wrapper-detail{
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.wrapper-detail h1{
+  font-size: 32px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
